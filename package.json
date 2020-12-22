@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "molecular": "0.0.0"
+    "moleculer": "^0.14.11"
   }
 }
